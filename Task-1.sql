@@ -1,0 +1,1 @@
+SELECT DISTINCT snum FROM orders;

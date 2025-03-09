@@ -1,0 +1,1 @@
+SELECT * FROM cust WHERE snum IN (1001, 1004);
